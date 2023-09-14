@@ -1,0 +1,6 @@
+.idea
+.idea/*
+db/*
+.vscode/*
+storage-service/target/test-classes/*
+storage-service/target/classes/*
