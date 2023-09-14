@@ -4,3 +4,5 @@ db/*
 .vscode/*
 storage-service/target/test-classes/*
 storage-service/target/classes/*
+storage-service/.mvn/*
+storage-service/target/*
